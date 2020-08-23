@@ -1,0 +1,38 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   display: inline;
+    
+}
+li{
+   display: inline;
+    color: white;
+   
+}
+a{
+    color: white;
+}
+
+
+img{
+height: 30px;
+    display: inline;
+}
+h1{
+    display: inline;
+    color: white;
+}
+
+
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: lightskyblue;
+    height: 50px;
+}
